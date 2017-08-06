@@ -3,6 +3,8 @@ An arduino device for your car to alert if you forget something.
 
 When the device powers on it checks that defined bluetooth trackers are close enough to be in the car and will show their status on the screen
 
+This is not a finished project, but it does work. I explain it in [this video](https://www.youtube.com/watch?v=5KsbRg9MzQk)
+
 ## Hardware
 * [Wemos D1 Mini](http://s.click.aliexpress.com/e/uzFUnIe)
 * [1.3" OLED screen](http://s.click.aliexpress.com/e/EqByrzb)
